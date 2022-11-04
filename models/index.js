@@ -1,3 +1,4 @@
 const User = require("./user.model");
+const Cheese = require("./cheese.model");
 
-module.exports = { User };
+module.exports = { User, Cheese };
